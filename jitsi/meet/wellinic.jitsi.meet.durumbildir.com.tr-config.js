@@ -1788,7 +1788,7 @@ var config = {
     // },
 
     // Application logo url
-    // defaultLogoUrl: 'images/watermark.svg',
+    // defaultLogoUrl: 'https://wellinicstorage.blob.core.windows.net/sourceimages/logo.svg',
 
     // Settings for the Excalidraw whiteboard integration.
     // whiteboard: {
